@@ -1,6 +1,6 @@
 # upwork-scout
 
-**Spend your Connects only on jobs worth them.**
+**Upwork has great clients — buried under a lot of noise. This finds them.**
 
 A Claude skill for freelancers on Upwork.
 Claude searches fresh jobs in your own logged-in browser, screens them against your criteria, catches the red flags, reads the client's history, and brings back a short list.
@@ -46,7 +46,7 @@ After a few weeks you know which searches bring jobs worth applying to.
 
 ## בעברית
 
-**להוציא Connects רק על משרות ששוות את זה.**
+**ב־Upwork יש לקוחות מצוינים, קבורים מתחת להרבה רעש. הכלי הזה מוצא אותם.**
 
 סקיל ל־Claude לפרילנסרים ב־Upwork.
 Claude מחפש משרות טריות בדפדפן שלך, שבו את כבר מחוברת, ומסנן אותן לפי הקריטריונים שלך. הוא מזהה דגלים אדומים, קורא את ההיסטוריה של הלקוח ומביא רשימה קצרה.
