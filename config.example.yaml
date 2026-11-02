@@ -1,0 +1,50 @@
+# Copy to config.yaml and fill in for yourself.
+
+me:
+  name: "Your Name"
+  offer: "What you do, in one sentence"
+  location: "Israel"            # used to check location preferences
+  remote_only: true
+  languages: ["English", "Hebrew"]
+  can_overlap: "US mornings (Israeli afternoon/evening)"
+
+experience:                     # only what you can honestly show
+  - "VP Service & Operations: built service and ops processes for a distributed team"
+  - "Built AI workflows with Claude Code (lead follow-up, call notes to CRM, CEO dashboard)"
+  - "Marketing creatives, reels and video editing from Zoom recordings"
+
+work_samples:
+  - "https://github.com/your-user"
+
+interested_in:                  # what makes a job interesting
+  - "AI / workflow automation projects"
+  - "marketing or operations work that can run on agents"
+  - "process / funnel / conversion reviews"
+  - "CRM setup and automation"
+
+searches:                       # Upwork search queries
+  - "AI automation"
+  - "workflow automation"
+  - "n8n"
+  - "marketing automation"
+  - "CRM setup"
+  - "funnel review"
+
+filters:
+  max_age_hours: 24             # fresh postings only
+  min_client_rating: 4.5        # strictly above
+  min_client_spent: 1000        # USD, strictly above
+  max_interviewing: 9           # skip if the client is interviewing this many
+  prefer_projects: true         # defined scope, short; not long-term roles
+  min_budget: null              # null = no budget filter
+
+never:                          # hard no's
+  - "phone work, cold calling, appointment setting"
+  - "pure social-media-management retainers"
+  - "clients who reject AI"
+  - "gambling / sports betting"
+  - "in-person work"
+
+max_results: 3
+
+proposal_translation: "Hebrew"  # add a translation under every draft (or null)
