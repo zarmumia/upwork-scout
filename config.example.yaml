@@ -47,4 +47,6 @@ never:                          # hard no's
 
 max_results: 3
 
+max_proposals_per_day: 2     # proposal drafts per day
+
 proposal_translation: "Hebrew"  # add a translation under every draft (or null)

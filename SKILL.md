@@ -63,6 +63,12 @@ You search, screen and read. **She decides, writes and sends every proposal.**
 
 Only if she asks: draft a proposal that answers exactly what the client asked, value first, in a personal tone. Use only what is in `config.yaml` and `work_samples`. Add `proposal_translation` if set. She edits and sends.
 
+Upwork rules for every draft:
+- **No contact details before a contract:** no email, phone, WhatsApp, Telegram, contact-form link or external meeting link in a proposal or message. All communication stays on Upwork until there is a contract.
+- **No payment outside Upwork**, and no hint of it.
+- Work-sample links (portfolio, GitHub, demos) are fine; contact links are not.
+- At most `max_proposals_per_day` drafts a day (default 2).
+
 ## Follow-up (once a week)
 
 Ask which applications got a view, a reply, an interview or a hire, and update `status`:
